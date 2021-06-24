@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "61634816402",
+    "firebase_url": "https://lawgician-82612.firebaseio.com",
+    "project_id": "lawgician-82612",
+    "storage_bucket": "lawgician-82612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61634816402:android:1affff6220989e86b3794b",
+        "android_client_info": {
+          "package_name": "com.lawgician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61634816402-kk8udaus3tubd2k5d0hb81pc74e3sdm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lawgician",
+            "certificate_hash": "d454c415ea310a4aaa1e6992d9b6a90addd8ea87"
+          }
+        },
+        {
+          "client_id": "61634816402-7vnm9b16btshapu32k3dspngp8ohhmp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lawgician",
+            "certificate_hash": "380e4f9bdc528eada165d3003ba9ea35c9b1dd94"
+          }
+        },
+        {
+          "client_id": "61634816402-f14tn22dnl9vkj2s82i1s21c4c90vfua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDnC3cd90fJPgiMu3diIoGQeRI9ulPSGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61634816402-f14tn22dnl9vkj2s82i1s21c4c90vfua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
